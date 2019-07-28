@@ -1,0 +1,29 @@
+{
+  "name": "node-simple-scheduler",
+  "version": "0.1.3",
+  "description": "Simple task scheduler for node.js",
+  "engines": {
+    "node": "*"
+  },
+  "main": "lib/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": "github:fokinko/node-simple-scheduler",
+  "keywords": [
+    "node.js",
+    "scheduler"
+  ],
+  "author": "fokap",
+  "license": "MIT",
+  "bugs": "https://github.com/fokinko/node-simple-scheduler/issues",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "mongoose": "^4.3.0"
+  }
+}
