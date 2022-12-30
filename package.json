@@ -21,7 +21,7 @@
   "license": "MIT",
   "bugs": "https://github.com/fokinko/node-simple-scheduler/issues",
   "devDependencies": {
-    "mocha": "^6.1.4"
+    "mocha": "^10.2.0"
   },
   "dependencies": {
     "mongoose": "^4.3.0"
